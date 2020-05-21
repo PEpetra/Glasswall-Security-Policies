@@ -712,6 +712,8 @@ authenticity. \[44 U.S.C., Sec. 3542\]
 **Isolated computer:** A computer that is not connected to a network or
 any other computer. For example, a stand-alone personal computer.
 
+**The IT manager or Head of IT:** The person responsible for creation, implementation, maintenance and upgrade of Glasswall’s informational technology infrastructure, computer network and cloud resources.  He/she oversees system and network administration, IT support services and controls hardware resources. the IT manager/ Head of IT researches strategies and technology solutions, and builds the most cost-effective and efficient system to achieve those goals.  
+
 **Local Access:** Access to an al information system by a user (or
 process acting on behalf of a user) communicating through a direct
 connection without the use of a network.
