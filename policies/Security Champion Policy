@@ -1,0 +1,76 @@
+|------------------|------------|
+| **Status**       | Approved   |
+| **Release Date** | April 2020 |
+| **Version**      | v1.0       |
+| **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
+
+## Contents
+
+- **1.0 Overview**
+- **2.0 Purpose**
+- **3.0 Scope** 
+- **4.0 Policy**
+  - **4.1 Deciding to Outsource**
+  - **4.2 Outsourcing Core Functions**
+  - **4.3 Evaluating a Provider**
+  - **4.5 Outsourcing Contracts**
+  - **4.6 Access to Information**
+  - **4.7 Applicability of Other Policies**
+- **5.0 Enforcement**
+- **6.0 Definitions**
+- **7.0 Attributions**
+  
+Glasswall is hereinafter referred to as "the company." 
+
+## 1.0 Overview
+
+To ensure information security is part of every team workflow in Glasswall and as part of an information security assurance there will be a Security Champion within every team in Glasswall. 
+
+
+## 2.0 Purpose 
+
+Establish the Security Champion Program. Outline the tasks and expectations for the Security Champion. 
+
+## 3.0 Scope 
+
+This applies to all squads and/or teams within Glasswall. Compliance with this policy is essential to maintain an information security framework. Squads which don’t comply to the policy will be presented as a security risk to the management. A team’s security champion is held accountable for the information security in their team.
+
+
+## 4.0 Policy 
+
+### 4.1 Security Champion Nomination
+
+- All squad leaders must nominate a Security Champion within their squad
+- The Security Champion will have some tasks and expectations to fulfil as part of their role (defined below)
+- The Head of InfoSec is to be informed of the nominee and the nominees will be added to the InfoSec channel and InfoSec weekly meetings.
+- The information security of their team will be their responsibility and they will account for it
+- A security champion is not required to have any infosec background
+
+
+### 4.2 Security Champion Tasks
+
+- Have an overview of their squad’s assets
+- Monitor all squad assets regularly (automated/manual Nmap, port and vulnerability scans, Data Dog, Elastic or any other tool of choice, code, apps, threat models...)
+- Responsible of reporting any security risks or vulnerabilities within their squad/team work scope
+- Be aware of and help on enforcing Glasswall security guideline to the team
+- Report and escalate any breach of the security guidelines within their team/squad
+- Attend InfoSec meetings every week where will give a brief report on their work done to improve their squad’s information security practices. 
+- Promote Information Security awareness and tips with the squad via security channel
+- Be involved in Incident Response within their team/squad
+
+### 4.3 Security Champion Training  
+
+- Security Champions will receive InfoSec training led by the InfoSec team
+- If any questions or uncertainties the InfoSec team will always be available to assist and provide training and feedback
+- Proactive e-learning about information security 
+
+
+## 5.0 Enforcement 
+
+This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+
+## 6.0 Definitions 
+
+Refer to Glasswall Information Security Policy Guide.
+
